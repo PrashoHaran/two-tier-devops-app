@@ -71,7 +71,7 @@ two-tier-devops-app/
 - Git & GitHub
 - Pytest - automated testing
 
-  🔹 Environment
+🔹 Environment
 - Linux (Ubuntu)
 - Local development & CI environment
   
@@ -118,8 +118,4 @@ If any test fails:
 - Migrate to Kubernetes
 - Add monitoring (Prometheus / Grafana)
 
----
-
-**Stay Safe & Stay Informed.** 🦠📊✨
- 
 ---
